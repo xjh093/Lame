@@ -37,7 +37,7 @@ input:
 
 `cd /Users/apple/Desktop/lame`
 
-`./build-lame.sh`
+`./build-lame.sh` or you may need `chmod +x build-lame.sh` before it
 
 Done!
 
