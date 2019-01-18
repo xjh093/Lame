@@ -46,7 +46,7 @@ Done!
 # Usage
 
 ```
-- (void)audioTranscod_PCMtoMp3
+- (void)audioTranscode_PCMtoMp3
 {
     NSString *cafFilePath = @"PCM path";
     NSString *mp3FilePath = @"MP3 path";
